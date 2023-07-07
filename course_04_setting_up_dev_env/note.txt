@@ -1,0 +1,3 @@
+- install node.js
+- install typescript compiler globally (prefer)
+- install IDE like VSCode 
